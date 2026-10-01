@@ -11,10 +11,14 @@ Este espacio reúne proyectos académicos, personales y experimentales, junto co
 
 📂 Estructura
 .
-├── projects/       # Proyectos de ingeniería
-├── experiments/    # Pruebas, prototipos y experimentos
-├── docs/           # Documentación y notas técnicas
-├── scripts/        # Scripts y herramientas auxiliares
+├── projects/     # Proyectos de ingeniería
+|
+├── experiments/  # Pruebas, prototipos y experimentos
+|
+├── docs/         # Documentación y notas técnicas
+|
+├── scripts/      # Scripts y herramientas auxiliares
+|
 └── README.md
 
 🎯 Objetivos
