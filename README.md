@@ -15,6 +15,7 @@ Este espacio reúne proyectos académicos, personales y experimentales, junto co
 ├── experiments/  # Pruebas, prototipos y experimentos
 ├── docs/         # Documentación y notas técnicas
 ├── scripts/      # Scripts y herramientas auxiliares
+├── notes/        # Notas de clases (apuntes)
 └── README.md
 ```
 ## 🎯 Objetivos
